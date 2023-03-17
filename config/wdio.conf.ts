@@ -3,7 +3,7 @@ import type { Options } from '@wdio/types';
 
 export const config: Options.Testrunner = {
     specs: [
-        'test/features/**/*.feature'
+        '../test/features/**/*.feature'
     ],
     // Patterns to exclude.
     exclude: [
