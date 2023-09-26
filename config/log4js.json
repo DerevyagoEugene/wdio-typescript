@@ -1,0 +1,37 @@
+{
+    "appenders": {
+        "stdout": {
+            "type": "stdout",
+            "layout": {
+                "type": "pattern",
+                "pattern": "[%d{dd-MM-yyyy hh:mm:ss.SSS}] [%p] %m"
+            }
+        },
+        "latest": {
+            "type": "file",
+            "filename": "logs/app.log",
+            "layout": {
+                "type": "pattern",
+                "pattern": "[%d{dd-MM-yyyy hh:mm:ss.SSS}] [%p] %m"
+            }
+        },
+        "history": {
+            "type": "file",
+            "filename": "logs/app",
+            "layout": {
+                "type": "pattern",
+                "pattern": "[%d{dd-MM-yyyy hh:mm:ss.SSS}] [%p] %m"
+            }
+        }
+    },
+    "categories": {
+        "default": {
+            "appenders": ["stdout"],
+            "level": "info"
+        },
+        "full": {
+            "appenders": ["latest", "history"],
+            "level": "debug"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+  "width": 1480,
+  "height": 768,
+  "fullscreen": false,
+  "headless": false,
+  "browser": {
+    "name": "chrome",
+    "services": "chromedriver",
+    "chromeOptions": {
+      "args": ["--disable-gpu"]
+    }
+  }
+}

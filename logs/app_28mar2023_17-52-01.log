@@ -1,0 +1,46 @@
+[28-03-2023 17:52:01.712] [DEBUG] [Home] Form created
+[28-03-2023 17:52:01.713] [DEBUG] [Anchor of Home] Element created
+[28-03-2023 17:52:01.714] [DEBUG] [Categories] Element created
+[28-03-2023 17:52:01.714] [DEBUG] [Search] Element created
+[28-03-2023 17:52:01.714] [DEBUG] [Result Item] Element created
+[28-03-2023 17:52:01.714] [DEBUG] [Search Modal] Element created
+[28-03-2023 17:52:01.722] [DEBUG] [Category] Form created
+[28-03-2023 17:52:01.723] [DEBUG] [Anchor of Category] Element created
+[28-03-2023 17:52:01.764] [DEBUG] [Category Info] Form created
+[28-03-2023 17:52:01.765] [DEBUG] [Anchor of Category Info] Element created
+[28-03-2023 17:52:01.765] [DEBUG] [Product Name] Element created
+[28-03-2023 17:52:01.765] [DEBUG] [Prices] Element created
+[28-03-2023 17:52:01.765] [DEBUG] [Offers] Element created
+[28-03-2023 17:52:01.774] [DEBUG] [Product] Form created
+[28-03-2023 17:52:01.774] [DEBUG] [Anchor of Product] Element created
+[28-03-2023 17:52:01.774] [DEBUG] [Offers] Element created
+[28-03-2023 17:52:01.785] [DEBUG] [Offers] Form created
+[28-03-2023 17:52:01.785] [DEBUG] [Anchor of Offers] Element created
+[28-03-2023 17:52:01.785] [DEBUG] [Offered Prices] Element created
+[28-03-2023 17:52:01.826] [INFO] [browserUtils] Setting up browser
+[28-03-2023 17:52:01.826] [INFO] [browserUtils] Using browser.json: width: 1480, height: 768
+[28-03-2023 17:52:02.088] [INFO] [STEP] 'I have navigated to the home page' has started
+[28-03-2023 17:52:02.089] [INFO] [browserUtils] Opening url: 'https://onliner.by'
+[28-03-2023 17:52:04.834] [INFO] [STEP] 'I have navigated to the home page' has finished
+[28-03-2023 17:52:04.837] [INFO] [STEP] 'I have navigated to a random product category' has started
+[28-03-2023 17:52:04.840] [INFO] [Categories] Checking if element is displayed
+[28-03-2023 17:52:04.885] [DEBUG] [Categories] Element is displayed
+[28-03-2023 17:52:07.616] [DEBUG] [Category] Checking if BaseForm is open
+[28-03-2023 17:52:07.616] [INFO] [Anchor of Category] Checking if element is displayed
+[28-03-2023 17:52:07.667] [DEBUG] [Anchor of Category] Element is displayed
+[28-03-2023 17:52:07.667] [DEBUG] [Category] Page is open
+[28-03-2023 17:52:07.667] [DEBUG] [Category: Мобильные телефоны] Element created
+[28-03-2023 17:52:07.667] [INFO] [Category: Мобильные телефоны] Checking if element is displayed
+[28-03-2023 17:52:07.705] [DEBUG] [Category: Мобильные телефоны] Element is displayed
+[28-03-2023 17:52:07.706] [INFO] [STEP] 'I have navigated to a random product category' has finished
+[28-03-2023 17:52:07.707] [INFO] [STEP] 'I store first product's data' has started
+[28-03-2023 17:52:07.708] [INFO] [Product Name] Retrieving text
+[28-03-2023 17:52:10.042] [INFO] [Product Name] Checking if element is displayed
+[28-03-2023 17:52:10.057] [DEBUG] [Product Name] Element is displayed
+[28-03-2023 17:52:10.070] [INFO] [Product Name] Retrieved text: 'Смартфон Xiaomi 12T Pro 12GB/256GB международная версия (черный)'
+[28-03-2023 17:52:10.070] [INFO] [Prices] Retrieving text
+[28-03-2023 17:52:10.437] [INFO] [Prices] Checking if element is displayed
+[28-03-2023 17:52:36.975] [DEBUG] [Prices] Element is displayed
+[28-03-2023 17:52:36.989] [INFO] [Prices] Retrieved text: 'от 2090,00 р.'
+[28-03-2023 17:52:36.989] [INFO] [Offers] Retrieving text
+[28-03-2023 17:52:37.450] [INFO] [Offers] Checking if element is displayed

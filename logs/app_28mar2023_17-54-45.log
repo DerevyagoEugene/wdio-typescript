@@ -1,0 +1,23 @@
+[28-03-2023 17:54:45.268] [DEBUG] [Home] Form created
+[28-03-2023 17:54:45.272] [DEBUG] [Anchor of Home] Element created
+[28-03-2023 17:54:45.272] [DEBUG] [Categories] Element created
+[28-03-2023 17:54:45.272] [DEBUG] [Search] Element created
+[28-03-2023 17:54:45.272] [DEBUG] [Result Item] Element created
+[28-03-2023 17:54:45.272] [DEBUG] [Search Modal] Element created
+[28-03-2023 17:54:45.281] [DEBUG] [Category] Form created
+[28-03-2023 17:54:45.281] [DEBUG] [Anchor of Category] Element created
+[28-03-2023 17:54:45.316] [DEBUG] [Category Info] Form created
+[28-03-2023 17:54:45.316] [DEBUG] [Anchor of Category Info] Element created
+[28-03-2023 17:54:45.316] [DEBUG] [Product Name] Element created
+[28-03-2023 17:54:45.316] [DEBUG] [Prices] Element created
+[28-03-2023 17:54:45.316] [DEBUG] [Offers] Element created
+[28-03-2023 17:54:45.323] [DEBUG] [Product] Form created
+[28-03-2023 17:54:45.323] [DEBUG] [Anchor of Product] Element created
+[28-03-2023 17:54:45.323] [DEBUG] [Offers] Element created
+[28-03-2023 17:54:45.328] [DEBUG] [Offers] Form created
+[28-03-2023 17:54:45.328] [DEBUG] [Anchor of Offers] Element created
+[28-03-2023 17:54:45.328] [DEBUG] [Offered Prices] Element created
+[28-03-2023 17:54:45.376] [INFO] [browserUtils] Setting up browser
+[28-03-2023 17:54:45.376] [INFO] [browserUtils] Using browser.json: width: 1480, height: 768
+[28-03-2023 17:54:45.652] [INFO] [STEP] 'I have navigated to the home page' has started
+[28-03-2023 17:54:45.652] [INFO] [browserUtils] Opening url: 'https://onliner.by'

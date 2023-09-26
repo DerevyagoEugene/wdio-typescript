@@ -1,0 +1,22 @@
+{
+  "name": "wdio_project",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "npx wdio run config/wdio.conf.ts",
+    "compile": "tsc -p tsconfig.json"
+  },
+  "author": "Eugene Derevyago",
+  "devDependencies": {
+    "@types/chai": "^4.3.4",
+    "@wdio/cli": "^8.6.9",
+    "@wdio/cucumber-framework": "^8.6.9",
+    "@wdio/local-runner": "^8.6.9",
+    "@wdio/spec-reporter": "^8.6.8",
+    "chai": "^4.3.7",
+    "chromedriver": "^111.0.0",
+    "log4js": "^6.7.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.2",
+    "wdio-chromedriver-service": "^8.0.1"
+  }
+}

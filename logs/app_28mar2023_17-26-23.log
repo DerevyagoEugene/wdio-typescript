@@ -1,0 +1,79 @@
+[28-03-2023 17:26:23.199] [DEBUG] [Home] Form created
+[28-03-2023 17:26:23.200] [DEBUG] [Anchor of Home] Element created
+[28-03-2023 17:26:23.200] [DEBUG] [Categories] Element created
+[28-03-2023 17:26:23.200] [DEBUG] [Search] Element created
+[28-03-2023 17:26:23.200] [DEBUG] [Result Item] Element created
+[28-03-2023 17:26:23.201] [DEBUG] [Search Modal] Element created
+[28-03-2023 17:26:23.206] [DEBUG] [Category] Form created
+[28-03-2023 17:26:23.206] [DEBUG] [Anchor of Category] Element created
+[28-03-2023 17:26:23.244] [DEBUG] [Category Info] Form created
+[28-03-2023 17:26:23.244] [DEBUG] [Anchor of Category Info] Element created
+[28-03-2023 17:26:23.244] [DEBUG] [Product Name] Element created
+[28-03-2023 17:26:23.245] [DEBUG] [Prices] Element created
+[28-03-2023 17:26:23.245] [DEBUG] [Offers] Element created
+[28-03-2023 17:26:23.249] [DEBUG] [Product] Form created
+[28-03-2023 17:26:23.249] [DEBUG] [Anchor of Product] Element created
+[28-03-2023 17:26:23.249] [DEBUG] [Offers] Element created
+[28-03-2023 17:26:23.253] [DEBUG] [Offers] Form created
+[28-03-2023 17:26:23.253] [DEBUG] [Anchor of Offers] Element created
+[28-03-2023 17:26:23.253] [DEBUG] [Offered Prices] Element created
+[28-03-2023 17:26:23.289] [INFO] [browserUtils] Setting up browser
+[28-03-2023 17:26:23.289] [INFO] [browserUtils] Using browser.json: width: 1480, height: 768
+[28-03-2023 17:26:23.520] [INFO] [STEP] 'I have navigated to the home page' has started
+[28-03-2023 17:26:23.521] [INFO] [browserUtils] Opening url: 'https://onliner.by'
+[28-03-2023 17:26:26.488] [INFO] [STEP] 'I have navigated to the home page' has finished
+[28-03-2023 17:26:26.489] [INFO] [STEP] 'I have navigated to a random product category' has started
+[28-03-2023 17:26:26.489] [INFO] [Categories] Checking if element is displayed
+[28-03-2023 17:26:26.519] [DEBUG] [Categories] Element is displayed
+[28-03-2023 17:26:30.316] [DEBUG] [Category] Checking if BaseForm is open
+[28-03-2023 17:26:30.316] [INFO] [Anchor of Category] Checking if element is displayed
+[28-03-2023 17:26:30.338] [DEBUG] [Anchor of Category] Element is displayed
+[28-03-2023 17:26:30.338] [DEBUG] [Category] Page is open
+[28-03-2023 17:26:30.338] [DEBUG] [Category: Фены] Element created
+[28-03-2023 17:26:30.338] [INFO] [Category: Фены] Checking if element is displayed
+[28-03-2023 17:26:30.373] [DEBUG] [Category: Фены] Element is displayed
+[28-03-2023 17:26:30.376] [INFO] [STEP] 'I have navigated to a random product category' has finished
+[28-03-2023 17:26:30.377] [INFO] [STEP] 'I store first product's data' has started
+[28-03-2023 17:26:30.378] [INFO] [Product Name] Retrieving text
+[28-03-2023 17:26:30.445] [INFO] [Product Name] Checking if element is displayed
+[28-03-2023 17:26:30.463] [DEBUG] [Product Name] Element is displayed
+[28-03-2023 17:26:30.482] [INFO] [Product Name] Retrieved text: 'Фен Dreame Hair Artist AHD5-RE0 (красный)'
+[28-03-2023 17:26:30.482] [INFO] [Prices] Retrieving text
+[28-03-2023 17:26:30.540] [INFO] [Prices] Checking if element is displayed
+[28-03-2023 17:26:30.561] [DEBUG] [Prices] Element is displayed
+[28-03-2023 17:26:30.592] [INFO] [Prices] Retrieved text: 'от 452,88 р.'
+[28-03-2023 17:26:30.592] [INFO] [Offers] Retrieving text
+[28-03-2023 17:26:30.862] [INFO] [Offers] Checking if element is displayed
+[28-03-2023 17:26:30.876] [DEBUG] [Offers] Element is displayed
+[28-03-2023 17:26:30.890] [INFO] [Offers] Retrieved text: '28 предложений'
+[28-03-2023 17:26:30.890] [INFO] [STEP] 'I store first product's data' has finished
+[28-03-2023 17:26:30.890] [INFO] [STEP] 'I search for a stored product' has started
+[28-03-2023 17:26:30.891] [INFO] [Search] Sending text: 'Фен Dreame Hair Artist AHD5-RE0 (красный)'
+[28-03-2023 17:26:30.923] [INFO] [Search] Checking if element is displayed
+[28-03-2023 17:26:30.945] [DEBUG] [Search] Element is displayed
+[28-03-2023 17:26:31.144] [INFO] [Search Modal] Checking if element is displayed
+[28-03-2023 17:26:31.169] [DEBUG] [Search Modal] Element is displayed
+[28-03-2023 17:26:31.675] [INFO] [Result Item] Checking if element is displayed
+[28-03-2023 17:26:32.197] [DEBUG] [Result Item] Element is displayed
+[28-03-2023 17:26:32.197] [INFO] [Result Item] Clicking
+[28-03-2023 17:26:32.203] [INFO] [Result Item] Checking if element is displayed
+[28-03-2023 17:26:32.211] [DEBUG] [Result Item] Element is displayed
+[28-03-2023 17:26:35.494] [INFO] [STEP] 'I search for a stored product' has finished
+[28-03-2023 17:26:35.495] [INFO] [STEP] 'I click the amount of suggestions button' has started
+[28-03-2023 17:26:35.495] [INFO] [Offers] Clicking
+[28-03-2023 17:26:35.755] [INFO] [Offers] Checking if element is displayed
+[28-03-2023 17:26:35.783] [DEBUG] [Offers] Element is displayed
+[28-03-2023 17:26:37.493] [INFO] [STEP] 'I click the amount of suggestions button' has finished
+[28-03-2023 17:26:37.494] [INFO] [STEP] 'Offers page is opened' has started
+[28-03-2023 17:26:37.495] [DEBUG] [Offers] Checking if BaseForm is open
+[28-03-2023 17:26:37.495] [INFO] [Anchor of Offers] Checking if element is displayed
+[28-03-2023 17:26:37.531] [DEBUG] [Anchor of Offers] Element is displayed
+[28-03-2023 17:26:37.531] [DEBUG] [Offers] Page is open
+[28-03-2023 17:26:37.532] [INFO] [STEP] 'Offers page is opened' has finished
+[28-03-2023 17:26:37.533] [INFO] [STEP] 'All offered prices are bigger than default' has started
+[28-03-2023 17:26:37.544] [INFO] [STEP] 'All offered prices are bigger than default' has finished
+[28-03-2023 17:26:37.545] [INFO] [Onliner] Test id: 46
+[28-03-2023 17:26:37.545] [INFO] [Onliner] Test duration: 0sec
+[28-03-2023 17:26:37.545] [INFO] [Onliner] Test result: PASSED
+[28-03-2023 17:26:37.545] [INFO] [Onliner] Test message: undefined
+[28-03-2023 17:26:37.545] [INFO] [browserUtils] Browser quit
